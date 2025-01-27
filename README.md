@@ -1,4 +1,4 @@
-This project focuses on fine-tuning and evaluating language models for mental health counseling conversations. The goal is to develop a model that can provide empathetic, personalized, and therapeutic responses while maintaining a professional and non-judgmental tone.
+This project focuses on fine-tuning and evaluating LLMs for mental health counseling conversations. The goal is to develop a model that can provide empathetic, personalized, and therapeutic responses while maintaining a professional and non-judgmental tone.
 
 ## Data
 
